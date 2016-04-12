@@ -1,4 +1,62 @@
 stop_id,stop_name,stop_lat,stop_lon
+
+1000, SW 40 St & SW 42 Av, Coral Gables Highschool entrance,25°44'05.7"N 80°15'45.3"W
+1002, SW 42 Av - Coral Gables Highschool Entrance, 25°44'04.7"N 80°15'42.3"W
+1003, Sw 42 Av - Coral Gables Highschool & San Lorenzo Ave, 25.734209, -80.261934
+1004, SW 40 St & Segovia St,25°44'04.2"N 80°15'57.1"W
+1005, SW 40 St & Monserrate St, 25.734368, -80.269375
+1006, SW 40 St & Anderson Rd, 25.734537, -80.269797
+1007, SW 40 St & Granada Bd, Beside Granada Presbyterian Church, 25.734256, -80.273305
+1008, SW 40 St & Golf Course Driveway,25.734377, -80.275192
+1009, 4001 Santa Maria St, Between Granada and Builtmore golf courses, 25.734075, -80.276901
+1010, SW 4O St@Pinta CT, Between Granada and Builtmore golf courses, 25.733977, -80.280538
+1011, SW 40 St@Mariola CT W, 25.734320, -80.280607
+1012, SW 40 St@San Amaro Dr,25.734183, -80.282573
+1013, 1501-1515 SW 40th St, 25.734130, -80.284665
+SW 57 Av@SW 40 St, Bird Red intersection, 25.734718, -80.286406
+SW 57 Av@Alcala Av, 2 blocks from Bird/Red, 25.736226, -80.286546
+SW 57 Av@Murcia Av, Coral Gables Wayside Park, 25.737907, -80.286613
+SW 57 Av@SW 35 St, Coral Gables Wayside Park, 25.737656, -80.286794
+SW 57 Av@SW 34 St, Coral Gables Wayside Park, 25.739432, -80.286904
+SW 57 Av@Trevino Av, 25.740000, -80.286735
+SW 57 Av@SW 31 St, 25.742318, -80.287010
+SW 57 Av@Catalonia Av - Schenley Park, 25.742987, -80.286897
+SW 57 Av@Coral Way - Ferdinand Park, 25.748451, -80.287281
+SW 57 Av@SW 24 St - Ferdinand Park, 25.749153, -80.287265
+SW 57 Av@SW 22 St - Between Se7aS Bar and Duffy's Tavern, 25.750538, -80.287479
+SW 57 Av@S Greenway Dr - Infront of Duffy's Tavern, 25.750900, -80.287334
+SW 57 Av@SW 17 St - Flaglar Auto Repair, 25.754697, -80.287622
+SW 16 St@SW 57 Av - The Builtmore School, 25.756224, -80.287771
+SW 8 St@Country Club Prado, 25.763494, -80.286176
+5630-5652 SW 8th St -J. FRITZ AND FRANCES GORDON PARK, 25.763245, -80.286686
+SW 8 St@Genoa St - Cafateria Plaza Madrid, 25.763709, -80.281031
+SW 8 St@Granada Blvd, 25.763866, -80.275848
+801 Santiago St - Wishes Hotel, 25.764045, -80.272259
+SW 37 Av@SW 8 St - MD bus #37 Norway Consulate General and Douglas Entrance Historical Ballroom, 25.764355, -80.255201
+SW 37 Av@Santillane Av - MD bus #37, 25.761783, -80.255150
+SW 37 Av@Sidonia Av - MD bus #37,25.759737, -80.255046
+SW 37 Av@Menores Av - MD bus #37, 25.757943, -80.255002
+SW 37 Av@Alhambra CR -Caballero Rivero Coral Gables and Joseph's Deli & Coffee Shop II, 25.755085, -80.254856
+SW 37 Av@Minorca Av - Apple, IBM and Yahoo offices, 25.753063, -80.254813
+SW 37 Av@Giralda Av - MD bus #37, 25.751291, -80.254758
+SW 37 Av@Coral Way - MD bus #37, US Post Office, 25.749453, -80.254667
+SW 37 Av@Sevilla Av - MD bus #37, Gables Terrace Condominiums, 25.746692, -80.254547
+SW 37 Av@Malaga Av - Havana Vieja,25.745146, -80.254491
+SW 37 Av@Coconut Grove Dr - Coral Gables Hospital, 25.742979, -80.254455
+1400 Coral Way - MD bus #24, 25.748525, -80.283724
+SW 24 St@N Greenway Dr - MD bus #24, 25.748617, -80.283440
+SW 24 St@Madrid St - MD Bus #24, 25.748525, -80.282040
+SW 24 St@Madrid St - MD Bus #24, 25.748703, -80.281600
+SW 24 St@Columbus Bd, 25.748649, -80.279425
+SW 24 St@Columbus Bd, 25.748763, -80.278686
+SW 24 St@Cordova St, 25.748811, -80.277444
+SW 24 St@Granada Bd - Ponce De Leon Plaza, 25.748769, -80.275326
+SW 24 St@Granada Bd - Ponce De Leon Plaza, 25.748861, -80.274731
+SW 24 St@Toledo St - Coral Gables Merrick House, 25.748782, -80.272951
+SW 24 St@Toledo St, 25.748959, -80.272411
+SW 24 St@S Greenway - Granada Golf Course 2nd hole, 25.749008, -80.270489
+
+
 1001,1701 NW 110 Ave - City of Sweetwater Maintenance and transit Dept,25.789842,-80.374116
 1002,1701 NW 112th Avenue - Sweetwater Code Enforcement and Building and Zoning,25.789856,-80.376591
 1003,11401 NW 12th St - DOLPHIN MALL,25.790167,-80.382720
